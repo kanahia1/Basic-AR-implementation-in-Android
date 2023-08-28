@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
         }
         modelNode = ArModelNode().apply {
             loadModelGlbAsync(
-                glbFileLocation = "models/cute_ghost.glb"
+                glbFileLocation = "models/chair.glb"
             )
             {
                 sceneView.planeRenderer.isVisible = true
