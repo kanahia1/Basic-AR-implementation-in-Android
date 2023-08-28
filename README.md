@@ -13,15 +13,6 @@ https://github.com/kanahia1/Basic-AR-implementation-in-Android/assets/114223204/
 #### Other Tools
 - Google-ARCore
 
-## Instructions
-1. Import the project through Android Studio or clone it
-   - `https://github.com/kanahia1/Boolian.git`
-2. Change my google-services.json with your google-services.json
-    - `../BoolianApp/app/google-services.json`
-3. Add Google OAuth 2.0 client ID in strings.xml
-4. Connect your device or emulator and run the app
-5. The app is now running
-
 ## Need Help?
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kanahia-kaushal-9850bb253/)
 
